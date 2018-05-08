@@ -1,0 +1,27 @@
+<style>
+      body{
+        background-color: black;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+    h1 {
+      color: Blue;
+      text-align: center;
+      margin-bottom: 50px;
+      font-family: "Arial";
+    }
+    a{
+      color: greenyellow;
+    }
+    table tr{
+      background-color: #ccc;
+      border: #aaa;
+    }
+    td{
+      color: black;
+      padding: 5px;
+    }
+    th{
+      color: greenyellow;
+    }
+    </style>
